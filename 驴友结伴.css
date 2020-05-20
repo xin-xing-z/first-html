@@ -1,0 +1,20 @@
+body
+{
+    background-image: url("../图片/杨树.jpg");opacity: 0.9;font-style: normal;background-repeat: no-repeat;background-size: cover;
+}
+h1
+{
+    color: rgb(26, 226, 199);
+}
+form
+{
+    font-weight: bolder;font-size: larger;text-align: left;color: rgb(18, 250, 250);
+}
+p
+{
+    font-size: larger;
+}
+input
+{
+    width: 180px;height: 24px;
+}
